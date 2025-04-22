@@ -9,7 +9,7 @@ export default function Dashboard() {
             Select a page to edit
           </h1>
           <p className="text-center text-sm text-gray-500">
-            Page missing? Contact Ryan.
+            Page missing? Contact Harsha and Nish.
           </p>
         </div>
 
